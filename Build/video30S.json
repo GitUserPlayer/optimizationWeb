@@ -1,0 +1,16 @@
+{
+"companyName": "default",
+"productName": "Html5_Demo",
+"productVersion": "0.1",
+"dataUrl": "video30S.data.unityweb",
+"wasmCodeUrl": "video30S.wasm.code.unityweb",
+"wasmFrameworkUrl": "video30S.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
